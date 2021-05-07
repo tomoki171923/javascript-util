@@ -1,0 +1,22 @@
+{
+  "name": "javascript-base",
+  "version": "1.0.0",
+  "description": "javascript basic functions",
+  "main": "caldate.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoki171923/javascript-base.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "tomoki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomoki171923/javascript-base/issues"
+  },
+  "homepage": "https://github.com/tomoki171923/javascript-base#readme"
+}
